@@ -15,10 +15,10 @@ minify = true
 # binding = "MY_BUCKET"
 # bucket_name = "my-bucket"
 
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "my-database"
-# database_id = ""
+[[d1_databases]]
+binding = "DB"
+database_name = "bonded-hearts-db"
+database_id = "db58e969-c5dd-4a2c-8b51-ae41f65620ae"
 
 # [ai]
 # binding = "AI"
