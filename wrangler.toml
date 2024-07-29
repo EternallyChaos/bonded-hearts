@@ -1,6 +1,8 @@
 name = "bonded-hearts"
 compatibility_date = "2024-07-29"
-pages_build_output_dir = "./dist"
+
+main = "src/index.ts"
+minify = true
 
 # [vars]
 # MY_VAR = "my-variable"
